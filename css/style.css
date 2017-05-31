@@ -46,13 +46,18 @@ h2 {
 
 .press {
 		float: left;
-		width: 24%;
+		width: 23%;
+		margin: 1%;
 }
 
-#press img {
- border: 5px #ccc solid;
- padding: 1px;
+.first {
+	margin-left: 0;
+}
 
+.press img {
+ border: 5px #ccc solid;
+
+}
 
 #footer {
 	font-family: "Baskerville";
